@@ -2,9 +2,6 @@ package com.teamtreehouse.countries.model;
 
 import java.util.List;
 
-/**
- * Created by mark on 4/12/2017.
- */
 public class Country {
     private String name;
     private List<String> languages;

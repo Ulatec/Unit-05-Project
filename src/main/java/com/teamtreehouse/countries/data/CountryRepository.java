@@ -9,9 +9,7 @@ import java.util.List;
 import java.util.ArrayList;
 import java.util.stream.Collectors;
 
-/**
- * Created by mark on 4/12/2017.
- */
+
 @Component
 public class CountryRepository {
     private static final List<Country> ALL_COUNTRIES = Arrays.asList(
